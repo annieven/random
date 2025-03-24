@@ -2,8 +2,8 @@
 
 ## Linux gcc cmd
 	rm random
-	gcc random.c -o random
-	./random
+	gcc main.c -o a.out
+	./a.out
 
 ## git cmd
 
